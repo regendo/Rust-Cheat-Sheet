@@ -1,4 +1,4 @@
-/* Cargo.toml
+/* in Cargo.toml
 "once_cell" = "1.8"
 "regex" = "1.5"
 */
@@ -14,7 +14,6 @@ macro_rules! regex {
 		})
 	}};
 }
-
 pub(crate) use regex;
 
 // In other file

@@ -1,3 +1,5 @@
-# Crate cheat sheet
+# Rust cheat sheet
 
-Crates I use and how to use them, so that I remember.
+Various rust techniques that are useful to remember so I don't keep implementing them or forget that they're possible.
+
+Also crates so I don't have to keep looking them up.
