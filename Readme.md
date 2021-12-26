@@ -11,6 +11,7 @@ Use [lib.rs](https://lib.rs) for looking up crates. It's just more useful with c
 ### Crate Quick Reference
 
 * Codespan-Reporting
+* Itertools
 * Once-Cell
 * Rand
 * Regex
